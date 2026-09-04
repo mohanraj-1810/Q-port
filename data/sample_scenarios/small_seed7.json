@@ -1,0 +1,2201 @@
+{
+  "id": "small_seed7",
+  "size": "small",
+  "seed": 7,
+  "nodes": [
+    {
+      "id": "r0_c0",
+      "lat": 28.42892792792793,
+      "lon": 77.20018890345632,
+      "kind": "destination"
+    },
+    {
+      "id": "r0_c1",
+      "lat": 28.42892792792793,
+      "lon": 77.22069167759224,
+      "kind": "destination"
+    },
+    {
+      "id": "r0_c2",
+      "lat": 28.42892792792793,
+      "lon": 77.24119445172816,
+      "kind": "destination"
+    },
+    {
+      "id": "r0_c3",
+      "lat": 28.42892792792793,
+      "lon": 77.26169722586408,
+      "kind": "destination"
+    },
+    {
+      "id": "r0_c4",
+      "lat": 28.42892792792793,
+      "lon": 77.2822,
+      "kind": "destination"
+    },
+    {
+      "id": "r0_c5",
+      "lat": 28.42892792792793,
+      "lon": 77.30270277413592,
+      "kind": "destination"
+    },
+    {
+      "id": "r0_c6",
+      "lat": 28.42892792792793,
+      "lon": 77.32320554827184,
+      "kind": "destination"
+    },
+    {
+      "id": "r0_c7",
+      "lat": 28.42892792792793,
+      "lon": 77.34370832240776,
+      "kind": "destination"
+    },
+    {
+      "id": "r1_c0",
+      "lat": 28.44694594594595,
+      "lon": 77.20018890345632,
+      "kind": "destination"
+    },
+    {
+      "id": "r1_c1",
+      "lat": 28.44694594594595,
+      "lon": 77.22069167759224,
+      "kind": "destination"
+    },
+    {
+      "id": "r1_c2",
+      "lat": 28.44694594594595,
+      "lon": 77.24119445172816,
+      "kind": "destination"
+    },
+    {
+      "id": "r1_c3",
+      "lat": 28.44694594594595,
+      "lon": 77.26169722586408,
+      "kind": "destination"
+    },
+    {
+      "id": "r1_c4",
+      "lat": 28.44694594594595,
+      "lon": 77.2822,
+      "kind": "destination"
+    },
+    {
+      "id": "r1_c5",
+      "lat": 28.44694594594595,
+      "lon": 77.30270277413592,
+      "kind": "destination"
+    },
+    {
+      "id": "r1_c6",
+      "lat": 28.44694594594595,
+      "lon": 77.32320554827184,
+      "kind": "destination"
+    },
+    {
+      "id": "r1_c7",
+      "lat": 28.44694594594595,
+      "lon": 77.34370832240776,
+      "kind": "destination"
+    },
+    {
+      "id": "r2_c0",
+      "lat": 28.464963963963967,
+      "lon": 77.20018890345632,
+      "kind": "destination"
+    },
+    {
+      "id": "r2_c1",
+      "lat": 28.464963963963967,
+      "lon": 77.22069167759224,
+      "kind": "destination"
+    },
+    {
+      "id": "r2_c2",
+      "lat": 28.464963963963967,
+      "lon": 77.24119445172816,
+      "kind": "destination"
+    },
+    {
+      "id": "r2_c3",
+      "lat": 28.464963963963967,
+      "lon": 77.26169722586408,
+      "kind": "destination"
+    },
+    {
+      "id": "r2_c4",
+      "lat": 28.464963963963967,
+      "lon": 77.2822,
+      "kind": "destination"
+    },
+    {
+      "id": "r2_c5",
+      "lat": 28.464963963963967,
+      "lon": 77.30270277413592,
+      "kind": "destination"
+    },
+    {
+      "id": "r2_c6",
+      "lat": 28.464963963963967,
+      "lon": 77.32320554827184,
+      "kind": "destination"
+    },
+    {
+      "id": "r2_c7",
+      "lat": 28.464963963963967,
+      "lon": 77.34370832240776,
+      "kind": "destination"
+    },
+    {
+      "id": "r3_c0",
+      "lat": 28.482981981981982,
+      "lon": 77.20018890345632,
+      "kind": "destination"
+    },
+    {
+      "id": "r3_c1",
+      "lat": 28.482981981981982,
+      "lon": 77.22069167759224,
+      "kind": "destination"
+    },
+    {
+      "id": "r3_c2",
+      "lat": 28.482981981981982,
+      "lon": 77.24119445172816,
+      "kind": "destination"
+    },
+    {
+      "id": "r3_c3",
+      "lat": 28.482981981981982,
+      "lon": 77.26169722586408,
+      "kind": "icd"
+    },
+    {
+      "id": "r3_c4",
+      "lat": 28.482981981981982,
+      "lon": 77.2822,
+      "kind": "destination"
+    },
+    {
+      "id": "r3_c5",
+      "lat": 28.482981981981982,
+      "lon": 77.30270277413592,
+      "kind": "destination"
+    },
+    {
+      "id": "r3_c6",
+      "lat": 28.482981981981982,
+      "lon": 77.32320554827184,
+      "kind": "destination"
+    },
+    {
+      "id": "r3_c7",
+      "lat": 28.482981981981982,
+      "lon": 77.34370832240776,
+      "kind": "destination"
+    },
+    {
+      "id": "r4_c0",
+      "lat": 28.501,
+      "lon": 77.20018890345632,
+      "kind": "destination"
+    },
+    {
+      "id": "r4_c1",
+      "lat": 28.501,
+      "lon": 77.22069167759224,
+      "kind": "destination"
+    },
+    {
+      "id": "r4_c2",
+      "lat": 28.501,
+      "lon": 77.24119445172816,
+      "kind": "destination"
+    },
+    {
+      "id": "r4_c3",
+      "lat": 28.501,
+      "lon": 77.26169722586408,
+      "kind": "destination"
+    },
+    {
+      "id": "r4_c4",
+      "lat": 28.501,
+      "lon": 77.2822,
+      "kind": "destination"
+    },
+    {
+      "id": "r4_c5",
+      "lat": 28.501,
+      "lon": 77.30270277413592,
+      "kind": "destination"
+    },
+    {
+      "id": "r4_c6",
+      "lat": 28.501,
+      "lon": 77.32320554827184,
+      "kind": "destination"
+    },
+    {
+      "id": "r4_c7",
+      "lat": 28.501,
+      "lon": 77.34370832240776,
+      "kind": "destination"
+    },
+    {
+      "id": "r5_c0",
+      "lat": 28.51901801801802,
+      "lon": 77.20018890345632,
+      "kind": "destination"
+    },
+    {
+      "id": "r5_c1",
+      "lat": 28.51901801801802,
+      "lon": 77.22069167759224,
+      "kind": "destination"
+    },
+    {
+      "id": "r5_c2",
+      "lat": 28.51901801801802,
+      "lon": 77.24119445172816,
+      "kind": "destination"
+    },
+    {
+      "id": "r5_c3",
+      "lat": 28.51901801801802,
+      "lon": 77.26169722586408,
+      "kind": "destination"
+    },
+    {
+      "id": "r5_c4",
+      "lat": 28.51901801801802,
+      "lon": 77.2822,
+      "kind": "destination"
+    },
+    {
+      "id": "r5_c5",
+      "lat": 28.51901801801802,
+      "lon": 77.30270277413592,
+      "kind": "destination"
+    },
+    {
+      "id": "r5_c6",
+      "lat": 28.51901801801802,
+      "lon": 77.32320554827184,
+      "kind": "destination"
+    },
+    {
+      "id": "r5_c7",
+      "lat": 28.51901801801802,
+      "lon": 77.34370832240776,
+      "kind": "destination"
+    },
+    {
+      "id": "r6_c0",
+      "lat": 28.53703603603604,
+      "lon": 77.20018890345632,
+      "kind": "destination"
+    },
+    {
+      "id": "r6_c1",
+      "lat": 28.53703603603604,
+      "lon": 77.22069167759224,
+      "kind": "destination"
+    },
+    {
+      "id": "r6_c2",
+      "lat": 28.53703603603604,
+      "lon": 77.24119445172816,
+      "kind": "destination"
+    },
+    {
+      "id": "r6_c3",
+      "lat": 28.53703603603604,
+      "lon": 77.26169722586408,
+      "kind": "destination"
+    },
+    {
+      "id": "r6_c4",
+      "lat": 28.53703603603604,
+      "lon": 77.2822,
+      "kind": "destination"
+    },
+    {
+      "id": "r6_c5",
+      "lat": 28.53703603603604,
+      "lon": 77.30270277413592,
+      "kind": "destination"
+    },
+    {
+      "id": "r6_c6",
+      "lat": 28.53703603603604,
+      "lon": 77.32320554827184,
+      "kind": "destination"
+    },
+    {
+      "id": "r6_c7",
+      "lat": 28.53703603603604,
+      "lon": 77.34370832240776,
+      "kind": "destination"
+    },
+    {
+      "id": "r7_c0",
+      "lat": 28.555054054054057,
+      "lon": 77.20018890345632,
+      "kind": "destination"
+    },
+    {
+      "id": "r7_c1",
+      "lat": 28.555054054054057,
+      "lon": 77.22069167759224,
+      "kind": "destination"
+    },
+    {
+      "id": "r7_c2",
+      "lat": 28.555054054054057,
+      "lon": 77.24119445172816,
+      "kind": "destination"
+    },
+    {
+      "id": "r7_c3",
+      "lat": 28.555054054054057,
+      "lon": 77.26169722586408,
+      "kind": "destination"
+    },
+    {
+      "id": "r7_c4",
+      "lat": 28.555054054054057,
+      "lon": 77.2822,
+      "kind": "destination"
+    },
+    {
+      "id": "r7_c5",
+      "lat": 28.555054054054057,
+      "lon": 77.30270277413592,
+      "kind": "destination"
+    },
+    {
+      "id": "r7_c6",
+      "lat": 28.555054054054057,
+      "lon": 77.32320554827184,
+      "kind": "destination"
+    },
+    {
+      "id": "r7_c7",
+      "lat": 28.555054054054057,
+      "lon": 77.34370832240776,
+      "kind": "destination"
+    }
+  ],
+  "edges": [
+    {
+      "from_node": "r0_c0",
+      "to_node": "r0_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c0",
+      "to_node": "r1_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c1",
+      "to_node": "r0_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c1",
+      "to_node": "r0_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c1",
+      "to_node": "r1_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c2",
+      "to_node": "r0_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c2",
+      "to_node": "r0_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c2",
+      "to_node": "r1_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c3",
+      "to_node": "r0_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c3",
+      "to_node": "r0_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c3",
+      "to_node": "r1_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c4",
+      "to_node": "r0_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c4",
+      "to_node": "r0_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c4",
+      "to_node": "r1_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c5",
+      "to_node": "r0_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c5",
+      "to_node": "r0_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c5",
+      "to_node": "r1_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c6",
+      "to_node": "r0_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c6",
+      "to_node": "r0_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c6",
+      "to_node": "r1_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c7",
+      "to_node": "r0_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r0_c7",
+      "to_node": "r1_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c0",
+      "to_node": "r0_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c0",
+      "to_node": "r1_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c0",
+      "to_node": "r2_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c1",
+      "to_node": "r0_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c1",
+      "to_node": "r1_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c1",
+      "to_node": "r1_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c1",
+      "to_node": "r2_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c2",
+      "to_node": "r0_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c2",
+      "to_node": "r1_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c2",
+      "to_node": "r1_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c2",
+      "to_node": "r2_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c3",
+      "to_node": "r0_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c3",
+      "to_node": "r1_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c3",
+      "to_node": "r1_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c3",
+      "to_node": "r2_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c4",
+      "to_node": "r0_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c4",
+      "to_node": "r1_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c4",
+      "to_node": "r1_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c4",
+      "to_node": "r2_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c5",
+      "to_node": "r0_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c5",
+      "to_node": "r1_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c5",
+      "to_node": "r1_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c5",
+      "to_node": "r2_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c6",
+      "to_node": "r0_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c6",
+      "to_node": "r1_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c6",
+      "to_node": "r1_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c6",
+      "to_node": "r2_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c7",
+      "to_node": "r0_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c7",
+      "to_node": "r1_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r1_c7",
+      "to_node": "r2_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c0",
+      "to_node": "r1_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c0",
+      "to_node": "r2_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c0",
+      "to_node": "r3_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c1",
+      "to_node": "r1_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c1",
+      "to_node": "r2_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c1",
+      "to_node": "r2_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c1",
+      "to_node": "r3_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c2",
+      "to_node": "r1_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c2",
+      "to_node": "r2_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c2",
+      "to_node": "r2_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c2",
+      "to_node": "r3_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c3",
+      "to_node": "r1_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c3",
+      "to_node": "r2_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c3",
+      "to_node": "r2_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c3",
+      "to_node": "r3_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c4",
+      "to_node": "r1_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c4",
+      "to_node": "r2_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c4",
+      "to_node": "r2_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c4",
+      "to_node": "r3_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c5",
+      "to_node": "r1_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c5",
+      "to_node": "r2_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c5",
+      "to_node": "r2_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c5",
+      "to_node": "r3_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c6",
+      "to_node": "r1_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c6",
+      "to_node": "r2_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c6",
+      "to_node": "r2_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c6",
+      "to_node": "r3_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c7",
+      "to_node": "r1_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c7",
+      "to_node": "r2_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r2_c7",
+      "to_node": "r3_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c0",
+      "to_node": "r2_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c0",
+      "to_node": "r3_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c0",
+      "to_node": "r4_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c1",
+      "to_node": "r2_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c1",
+      "to_node": "r3_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c1",
+      "to_node": "r3_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c1",
+      "to_node": "r4_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c2",
+      "to_node": "r2_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c2",
+      "to_node": "r3_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c2",
+      "to_node": "r3_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c2",
+      "to_node": "r4_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c3",
+      "to_node": "r2_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c3",
+      "to_node": "r3_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c3",
+      "to_node": "r3_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c3",
+      "to_node": "r4_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c4",
+      "to_node": "r2_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c4",
+      "to_node": "r3_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c4",
+      "to_node": "r3_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c4",
+      "to_node": "r4_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c5",
+      "to_node": "r2_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c5",
+      "to_node": "r3_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c5",
+      "to_node": "r3_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c5",
+      "to_node": "r4_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c6",
+      "to_node": "r2_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c6",
+      "to_node": "r3_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c6",
+      "to_node": "r3_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c6",
+      "to_node": "r4_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c7",
+      "to_node": "r2_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c7",
+      "to_node": "r3_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r3_c7",
+      "to_node": "r4_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c0",
+      "to_node": "r3_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c0",
+      "to_node": "r4_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c0",
+      "to_node": "r5_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c1",
+      "to_node": "r3_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c1",
+      "to_node": "r4_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c1",
+      "to_node": "r4_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c1",
+      "to_node": "r5_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c2",
+      "to_node": "r3_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c2",
+      "to_node": "r4_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c2",
+      "to_node": "r4_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c2",
+      "to_node": "r5_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c3",
+      "to_node": "r3_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c3",
+      "to_node": "r4_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c3",
+      "to_node": "r4_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c3",
+      "to_node": "r5_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c4",
+      "to_node": "r3_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c4",
+      "to_node": "r4_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c4",
+      "to_node": "r4_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c4",
+      "to_node": "r5_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c5",
+      "to_node": "r3_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c5",
+      "to_node": "r4_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c5",
+      "to_node": "r4_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c5",
+      "to_node": "r5_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c6",
+      "to_node": "r3_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c6",
+      "to_node": "r4_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c6",
+      "to_node": "r4_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c6",
+      "to_node": "r5_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c7",
+      "to_node": "r3_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c7",
+      "to_node": "r4_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r4_c7",
+      "to_node": "r5_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c0",
+      "to_node": "r4_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c0",
+      "to_node": "r5_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c0",
+      "to_node": "r6_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c1",
+      "to_node": "r4_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c1",
+      "to_node": "r5_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c1",
+      "to_node": "r5_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c1",
+      "to_node": "r6_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c2",
+      "to_node": "r4_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c2",
+      "to_node": "r5_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c2",
+      "to_node": "r5_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c2",
+      "to_node": "r6_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c3",
+      "to_node": "r4_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c3",
+      "to_node": "r5_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c3",
+      "to_node": "r5_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c3",
+      "to_node": "r6_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c4",
+      "to_node": "r4_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c4",
+      "to_node": "r5_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c4",
+      "to_node": "r5_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c4",
+      "to_node": "r6_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c5",
+      "to_node": "r4_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c5",
+      "to_node": "r5_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c5",
+      "to_node": "r5_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c5",
+      "to_node": "r6_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c6",
+      "to_node": "r4_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c6",
+      "to_node": "r5_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c6",
+      "to_node": "r5_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c6",
+      "to_node": "r6_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c7",
+      "to_node": "r4_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c7",
+      "to_node": "r5_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r5_c7",
+      "to_node": "r6_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c0",
+      "to_node": "r5_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c0",
+      "to_node": "r6_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c0",
+      "to_node": "r7_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c1",
+      "to_node": "r5_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c1",
+      "to_node": "r6_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c1",
+      "to_node": "r6_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c1",
+      "to_node": "r7_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c2",
+      "to_node": "r5_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c2",
+      "to_node": "r6_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c2",
+      "to_node": "r6_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c2",
+      "to_node": "r7_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c3",
+      "to_node": "r5_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c3",
+      "to_node": "r6_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c3",
+      "to_node": "r6_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c3",
+      "to_node": "r7_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c4",
+      "to_node": "r5_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c4",
+      "to_node": "r6_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c4",
+      "to_node": "r6_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c4",
+      "to_node": "r7_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c5",
+      "to_node": "r5_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c5",
+      "to_node": "r6_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c5",
+      "to_node": "r6_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c5",
+      "to_node": "r7_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c6",
+      "to_node": "r5_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c6",
+      "to_node": "r6_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c6",
+      "to_node": "r6_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c6",
+      "to_node": "r7_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c7",
+      "to_node": "r5_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c7",
+      "to_node": "r6_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r6_c7",
+      "to_node": "r7_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c0",
+      "to_node": "r6_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c0",
+      "to_node": "r7_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c1",
+      "to_node": "r6_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c1",
+      "to_node": "r7_c0",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c1",
+      "to_node": "r7_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c2",
+      "to_node": "r6_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c2",
+      "to_node": "r7_c1",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c2",
+      "to_node": "r7_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c3",
+      "to_node": "r6_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c3",
+      "to_node": "r7_c2",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c3",
+      "to_node": "r7_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c4",
+      "to_node": "r6_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c4",
+      "to_node": "r7_c3",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c4",
+      "to_node": "r7_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c5",
+      "to_node": "r6_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c5",
+      "to_node": "r7_c4",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c5",
+      "to_node": "r7_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c6",
+      "to_node": "r6_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c6",
+      "to_node": "r7_c5",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c6",
+      "to_node": "r7_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c7",
+      "to_node": "r6_c7",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    },
+    {
+      "from_node": "r7_c7",
+      "to_node": "r7_c6",
+      "distance_km": 2.0,
+      "base_time_min": 3.4286,
+      "traffic_multiplier": 1.0
+    }
+  ],
+  "containers": [
+    {
+      "id": "C0000",
+      "origin_node": "r3_c3",
+      "destination_node": "r2_c4",
+      "weight_kg": 817.5,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 243,
+      "status": "pending"
+    },
+    {
+      "id": "C0001",
+      "origin_node": "r3_c3",
+      "destination_node": "r7_c5",
+      "weight_kg": 933.3,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 409,
+      "status": "pending"
+    },
+    {
+      "id": "C0002",
+      "origin_node": "r3_c3",
+      "destination_node": "r1_c1",
+      "weight_kg": 2540.5,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 441,
+      "status": "pending"
+    },
+    {
+      "id": "C0003",
+      "origin_node": "r3_c3",
+      "destination_node": "r3_c1",
+      "weight_kg": 1888.4,
+      "priority": 3,
+      "earliest_time_min": 0,
+      "latest_time_min": 419,
+      "status": "pending"
+    },
+    {
+      "id": "C0004",
+      "origin_node": "r3_c3",
+      "destination_node": "r5_c2",
+      "weight_kg": 2448.3,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 143,
+      "status": "pending"
+    },
+    {
+      "id": "C0005",
+      "origin_node": "r3_c3",
+      "destination_node": "r0_c3",
+      "weight_kg": 1004.9,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 334,
+      "status": "pending"
+    },
+    {
+      "id": "C0006",
+      "origin_node": "r3_c3",
+      "destination_node": "r0_c4",
+      "weight_kg": 2460.9,
+      "priority": 2,
+      "earliest_time_min": 0,
+      "latest_time_min": 277,
+      "status": "pending"
+    },
+    {
+      "id": "C0007",
+      "origin_node": "r3_c3",
+      "destination_node": "r6_c5",
+      "weight_kg": 2535.6,
+      "priority": 2,
+      "earliest_time_min": 0,
+      "latest_time_min": 172,
+      "status": "pending"
+    },
+    {
+      "id": "C0008",
+      "origin_node": "r3_c3",
+      "destination_node": "r4_c3",
+      "weight_kg": 841.0,
+      "priority": 2,
+      "earliest_time_min": 0,
+      "latest_time_min": 310,
+      "status": "pending"
+    },
+    {
+      "id": "C0009",
+      "origin_node": "r3_c3",
+      "destination_node": "r0_c6",
+      "weight_kg": 708.6,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 408,
+      "status": "pending"
+    },
+    {
+      "id": "C0010",
+      "origin_node": "r3_c3",
+      "destination_node": "r2_c7",
+      "weight_kg": 2361.0,
+      "priority": 2,
+      "earliest_time_min": 0,
+      "latest_time_min": 468,
+      "status": "pending"
+    },
+    {
+      "id": "C0011",
+      "origin_node": "r3_c3",
+      "destination_node": "r4_c6",
+      "weight_kg": 2549.5,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 358,
+      "status": "pending"
+    },
+    {
+      "id": "C0012",
+      "origin_node": "r3_c3",
+      "destination_node": "r7_c2",
+      "weight_kg": 1369.5,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 273,
+      "status": "pending"
+    },
+    {
+      "id": "C0013",
+      "origin_node": "r3_c3",
+      "destination_node": "r4_c1",
+      "weight_kg": 786.5,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 244,
+      "status": "pending"
+    },
+    {
+      "id": "C0014",
+      "origin_node": "r3_c3",
+      "destination_node": "r1_c5",
+      "weight_kg": 3563.0,
+      "priority": 2,
+      "earliest_time_min": 0,
+      "latest_time_min": 373,
+      "status": "pending"
+    },
+    {
+      "id": "C0015",
+      "origin_node": "r3_c3",
+      "destination_node": "r0_c2",
+      "weight_kg": 2631.4,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 267,
+      "status": "pending"
+    },
+    {
+      "id": "C0016",
+      "origin_node": "r3_c3",
+      "destination_node": "r0_c5",
+      "weight_kg": 1963.4,
+      "priority": 2,
+      "earliest_time_min": 0,
+      "latest_time_min": 382,
+      "status": "pending"
+    },
+    {
+      "id": "C0017",
+      "origin_node": "r3_c3",
+      "destination_node": "r3_c4",
+      "weight_kg": 3766.4,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 197,
+      "status": "pending"
+    },
+    {
+      "id": "C0018",
+      "origin_node": "r3_c3",
+      "destination_node": "r3_c2",
+      "weight_kg": 771.7,
+      "priority": 2,
+      "earliest_time_min": 0,
+      "latest_time_min": 462,
+      "status": "pending"
+    },
+    {
+      "id": "C0019",
+      "origin_node": "r3_c3",
+      "destination_node": "r7_c1",
+      "weight_kg": 1690.4,
+      "priority": 1,
+      "earliest_time_min": 0,
+      "latest_time_min": 280,
+      "status": "pending"
+    }
+  ],
+  "trucks": [
+    {
+      "id": "T000",
+      "capacity_kg": 29933.5,
+      "current_node": "r3_c3",
+      "available": true,
+      "speed_kmph": 35.0
+    },
+    {
+      "id": "T001",
+      "capacity_kg": 35937.8,
+      "current_node": "r3_c3",
+      "available": true,
+      "speed_kmph": 35.0
+    },
+    {
+      "id": "T002",
+      "capacity_kg": 21375.3,
+      "current_node": "r3_c3",
+      "available": true,
+      "speed_kmph": 35.0
+    },
+    {
+      "id": "T003",
+      "capacity_kg": 21871.9,
+      "current_node": "r3_c3",
+      "available": true,
+      "speed_kmph": 35.0
+    },
+    {
+      "id": "T004",
+      "capacity_kg": 25398.8,
+      "current_node": "r3_c3",
+      "available": true,
+      "speed_kmph": 35.0
+    }
+  ],
+  "icd_node_id": "r3_c3"
+}

@@ -1,0 +1,349 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+:root {
+  --bg-base: #0a0a0f;
+  --bg-surface: #111118;
+  --bg-elevated: #1a1a26;
+  --bg-card: #16161f;
+  --border: #2a2a3d;
+  --border-bright: #3d3d5c;
+  --accent: #6366f1;
+  --accent-dim: #4f52d0;
+  --accent-glow: rgba(99, 102, 241, 0.2);
+  --text-primary: #f0f0f8;
+  --text-secondary: #8888aa;
+  --text-muted: #555570;
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --mono: 'JetBrains Mono', 'Courier New', monospace;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+  background: var(--bg-base);
+  color: var(--text-primary);
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  overflow: hidden;
+}
+
+/* ─── Scrollbar ─────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-base); }
+::-webkit-scrollbar-thumb { background: var(--border-bright); border-radius: 3px; }
+
+/* ─── Layout ─────────────────────────────────────────────────── */
+.app-shell {
+  display: grid;
+  grid-template-columns: 340px 1fr;
+  grid-template-rows: 52px 1fr;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.topbar {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 0 20px;
+  background: var(--bg-surface);
+  border-bottom: 1px solid var(--border);
+  z-index: 10;
+}
+
+.sidebar {
+  background: var(--bg-surface);
+  border-right: 1px solid var(--border);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.map-area {
+  position: relative;
+  overflow: hidden;
+}
+
+/* ─── Cards ──────────────────────────────────────────────────── */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px;
+}
+
+.panel-section {
+  border-bottom: 1px solid var(--border);
+  padding: 14px;
+}
+
+.panel-section:last-child {
+  border-bottom: none;
+}
+
+.panel-title {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+}
+
+/* ─── Buttons ────────────────────────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 7px 14px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+.btn-primary:hover:not(:disabled) {
+  background: var(--accent-dim);
+  box-shadow: 0 0 16px var(--accent-glow);
+}
+
+.btn-secondary {
+  background: var(--bg-elevated);
+  color: var(--text-primary);
+  border-color: var(--border-bright);
+}
+.btn-secondary:hover:not(:disabled) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.btn-danger {
+  background: transparent;
+  color: var(--danger);
+  border-color: var(--danger);
+}
+.btn-danger:hover:not(:disabled) {
+  background: rgba(239,68,68,0.1);
+}
+
+.btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.btn-sm {
+  padding: 4px 10px;
+  font-size: 12px;
+}
+
+.btn-full { width: 100%; }
+
+/* ─── Inputs ─────────────────────────────────────────────────── */
+.input, .select {
+  background: var(--bg-base);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text-primary);
+  font-family: inherit;
+  font-size: 13px;
+  padding: 7px 10px;
+  width: 100%;
+  transition: border-color 0.15s;
+}
+.input:focus, .select:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+/* ─── Monospace metrics ──────────────────────────────────────── */
+.mono { font-family: var(--mono); }
+
+.metric {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 4px 0;
+}
+.metric-label { color: var(--text-secondary); font-size: 12px; }
+.metric-value {
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--text-primary);
+}
+.metric-value.accent { color: var(--accent); }
+.metric-value.success { color: var(--success); }
+.metric-value.warning { color: var(--warning); }
+.metric-value.danger { color: var(--danger); }
+
+/* ─── Badges ─────────────────────────────────────────────────── */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  font-family: var(--mono);
+}
+.badge-qpso { background: rgba(99,102,241,0.15); color: #818cf8; border: 1px solid rgba(99,102,241,0.3); }
+.badge-ortools { background: rgba(34,197,94,0.12); color: #4ade80; border: 1px solid rgba(34,197,94,0.3); }
+.badge-ga { background: rgba(251,146,60,0.12); color: #fb923c; border: 1px solid rgba(251,146,60,0.3); }
+
+/* ─── Method tabs ────────────────────────────────────────────── */
+.tab-row {
+  display: flex;
+  gap: 4px;
+  background: var(--bg-base);
+  border-radius: 6px;
+  padding: 3px;
+  border: 1px solid var(--border);
+}
+.tab {
+  flex: 1;
+  padding: 5px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  transition: all 0.15s;
+}
+.tab.active { background: var(--accent); color: #fff; }
+.tab:hover:not(.active) { background: var(--bg-elevated); color: var(--text-primary); }
+
+/* ─── Status / spinner ───────────────────────────────────────── */
+.spinner {
+  width: 16px; height: 16px;
+  border: 2px solid var(--border-bright);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+  display: inline-block;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.status-bar {
+  font-size: 11px;
+  font-family: var(--mono);
+  color: var(--text-muted);
+  padding: 6px 14px;
+  border-top: 1px solid var(--border);
+  background: var(--bg-base);
+}
+
+/* ─── Runtime callout ────────────────────────────────────────── */
+.runtime-callout {
+  background: linear-gradient(135deg, rgba(99,102,241,0.08), rgba(34,197,94,0.06));
+  border: 1px solid var(--border-bright);
+  border-radius: 8px;
+  padding: 12px;
+  margin-top: 8px;
+}
+.runtime-callout .title {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+.runtime-vs {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.runtime-val {
+  font-family: var(--mono);
+  font-size: 20px;
+  font-weight: 600;
+}
+.runtime-val.fast { color: var(--success); }
+.runtime-val.slow { color: var(--warning); }
+.runtime-label { font-size: 11px; color: var(--text-secondary); }
+.runtime-sep { color: var(--text-muted); font-size: 12px; }
+
+/* ─── Priority colours ───────────────────────────────────────── */
+.pri-1 { color: #60a5fa; }
+.pri-2 { color: #fbbf24; }
+.pri-3 { color: #f87171; }
+
+/* ─── Leaflet overrides ──────────────────────────────────────── */
+.leaflet-container {
+  background: #0d0d14 !important;
+  height: 100%;
+  width: 100%;
+}
+.leaflet-tile-pane { filter: brightness(0.35) saturate(0.5); }
+.leaflet-control-attribution { display: none !important; }
+.leaflet-control-zoom a {
+  background: var(--bg-elevated) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--border) !important;
+}
+
+/* ─── Benchmark table ────────────────────────────────────────── */
+.bench-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+.bench-table th {
+  text-align: left;
+  padding: 6px 10px;
+  color: var(--text-muted);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  border-bottom: 1px solid var(--border);
+}
+.bench-table td {
+  padding: 7px 10px;
+  border-bottom: 1px solid var(--border);
+  font-family: var(--mono);
+  font-size: 12px;
+}
+.bench-table tr:last-child td { border-bottom: none; }
+.bench-table .best { color: var(--success); }
+.bench-table .worst { color: var(--danger); }
+
+/* ─── Glow polyline effect ───────────────────────────────────── */
+.route-glow { filter: drop-shadow(0 0 4px currentColor); }
+
+/* ─── Responsive overlay for benchmark ──────────────────────── */
+.bench-overlay {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-bright);
+  border-radius: 10px;
+  padding: 16px;
+  min-width: 560px;
+  max-width: 90vw;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+}
